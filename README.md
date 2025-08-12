@@ -12,7 +12,7 @@ SHAMBA LUV is a digital gesture designed to spread abundance, fun, joy and LUV a
 
 ## 🎯 Overview
 0x583F6D336E777c461FbfbeE3349D7D2dA9dc5e51
-<a href="https://luv.pythai.net">SHAMBA LUV</a> is LUV airdrop contract that automatically distributes **1 TRILLION SHAMBA LUV** to a maximum of 3000 new participants when they connect their social account which creates a personal wallet. Your LUV wallet is entirely under your control. You hold the private key. LUV is the answer. Built with Thirdweb SDK v5, it features:
+<a href="https://luv.pythai.net">SHAMBA LUV</a> is LUV airdrop contract that automatically distributes **1 TRILLION SHAMBA LUV** to a maximum of 3000 new participants when you <a href="https://luv.pythai.net">connect</a> your social account to create a personal SHAMBA LUV wallet. Your LUV wallet is entirely under your control. You hold the private key. LUV is the answer. Built with Thirdweb SDK v5, it features:
 
 - 🎁 **Automatic Airdrops** - 1 000 000 000 000 SHAMBA LUV tokens instantly on wallet connection
 - 💎 **Reflection Rewards** - 3% of every transaction distributed to holders
