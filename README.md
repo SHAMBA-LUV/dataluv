@@ -1,4 +1,4 @@
-# 🌟 SHAMBA LUV 0x583F6D336E777c461FbfbeE3349D7D2dA9dc5e51 - Automatic Airdrop DApp
+# 🌟 SHAMBA LUV 0x1035760d0f60b35b63660ac0774ef363eaa5456e - Automatic Airdrop DApp
 https://polygonscan.com/token/0x1035760d0f60b35b63660ac0774ef363eaa5456e<br />
 SHAMBA LUV contract address
 ```txt
