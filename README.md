@@ -4,7 +4,7 @@ https://polygonscan.com/token/0x1035760d0f60b35b63660ac0774ef363eaa5456e
 0x583F6D336E777c461FbfbeE3349D7D2dA9dc5e51
 ```
 
-A psychedelic, love-themed token distribution platform built on Polygon with automatic airdrops, reflection rewards, and sponsored gas transactions.
+SHAMBA LUV is a digital gesture designed to spread abundance, fun, joy and LUV as community vibe for social sharing building an emotional economy where gestures are stored on-chain giving attention, gestures, and community impact value from the power of LUV
 
 ![SHAMBA LUV](https://img.shields.io/badge/SHAMBA%20LUV-❤️%20Token-ff1493)
 ![Polygon](https://img.shields.io/badge/Polygon-Mainnet-8247E5)
