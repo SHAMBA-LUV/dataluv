@@ -1,4 +1,4 @@
-# 🌟 SHAMBA LUV Token - Automatic Airdrop DApp
+# 🌟 SHAMBA LUV 0x583F6D336E777c461FbfbeE3349D7D2dA9dc5e51 relfection on Polygon - Automatic Airdrop DApp
 
 A psychedelic, love-themed token distribution platform built on Polygon with automatic airdrops, reflection rewards, and sponsored gas transactions.
 
@@ -7,8 +7,8 @@ A psychedelic, love-themed token distribution platform built on Polygon with aut
 ![Thirdweb](https://img.shields.io/badge/Powered%20by-Thirdweb-purple)
 
 ## 🎯 Overview
-
-SHAMBA LUV is a community token that automatically distributes **1 TRILLION tokens** to new users when they connect their wallet. Built with Thirdweb SDK v5, it features:
+0x583F6D336E777c461FbfbeE3349D7D2dA9dc5e51
+<a href="https://luv.pythai.net">SHAMBA LUV</a> is a community token that automatically distributes **1 TRILLION tokens** to new users when they connect their wallet. Built with Thirdweb SDK v5, it features:
 
 - 🎁 **Automatic Airdrops** - 1 trillion tokens instantly on wallet connection
 - 💎 **Reflection Rewards** - 3% of every transaction distributed to holders
