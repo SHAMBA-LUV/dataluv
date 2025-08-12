@@ -165,7 +165,7 @@ npm run preview
 
 Update your `.env` file with the deployed addresses:
 ```env
-VITE_TEMPLATE_TOKEN_CONTRACT_ADDRESS=0x76Cec4b13953Aeb20dc3C9bEB550FaaAa9CcDF55
+VITE_TEMPLATE_TOKEN_CONTRACT_ADDRESS=0x1035760d0f60B35B63660ac0774ef363eAa5456e
 VITE_AIRDROP_CONTRACT_ADDRESS=0x_your_deployed_airdrop_address
 ```
 
