@@ -42,8 +42,8 @@ SHAMBA LUV is a community token that automatically distributes **1 TRILLION toke
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/shamba-luv.git
-   cd shamba-luv
+   git clone https://github.com/SHAMBA-LUV/dataluv.git
+   cd dataluv
    ```
 
 2. **Install dependencies**
