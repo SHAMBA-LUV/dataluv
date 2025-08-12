@@ -166,7 +166,7 @@ npm run preview
 Update your `.env` file with the deployed addresses:
 ```env
 VITE_TEMPLATE_TOKEN_CONTRACT_ADDRESS=0x1035760d0f60B35B63660ac0774ef363eAa5456e
-VITE_AIRDROP_CONTRACT_ADDRESS=0x_your_deployed_airdrop_address
+VITE_AIRDROP_CONTRACT_ADDRESS=0x583F6D336E777c461FbfbeE3349D7D2dA9dc5e51
 ```
 
 ### **Step 3: Deploy Frontend**
