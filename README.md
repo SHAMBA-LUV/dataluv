@@ -205,7 +205,7 @@ shamba-luv/
 
 ### **Component Flow**
 
-1. **Landing Page** → User sees trippy animations
+1. **Landing Page** → LUV is priceless
 2. **Connect Wallet** → Multiple auth options (email, Google, etc.)
 3. **Auto-Airdrop** → Checks eligibility and claims automatically
 4. **Dashboard** → Shows balance and token information
