@@ -12,7 +12,7 @@ SHAMBA LUV is a community token that automatically distributes **1 TRILLION toke
 
 - 🎁 **Automatic Airdrops** - 1 trillion tokens instantly on wallet connection
 - 💎 **Reflection Rewards** - 3% of every transaction distributed to holders
-- ⛽ **Sponsored Gas** - Users pay no gas fees (gasless transactions)
+- ⛽ **Sponsored Gas** - Users pay no gas fees to collect LUV (gasless transactions)
 - 🔐 **Smart Account Wallets** - Email, social logins, and passkey support
 - 🎨 **Trippy Landing Page** - Psychedelic animations and effects
 
