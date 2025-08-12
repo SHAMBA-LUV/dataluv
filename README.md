@@ -1,7 +1,8 @@
 # 🌟 SHAMBA LUV 0x583F6D336E777c461FbfbeE3349D7D2dA9dc5e51 - Automatic Airdrop DApp
-https://polygonscan.com/token/0x1035760d0f60b35b63660ac0774ef363eaa5456e
+https://polygonscan.com/token/0x1035760d0f60b35b63660ac0774ef363eaa5456e<br />
+SHAMBA LUV contract address
 ```txt
-0x583F6D336E777c461FbfbeE3349D7D2dA9dc5e51
+0x1035760d0f60b35b63660ac0774ef363eaa5456e
 ```
 
 SHAMBA LUV is a digital gesture designed to spread abundance, fun, joy and LUV as community vibe for social sharing building an emotional economy where gestures are stored on-chain giving attention, gestures, and community impact value from the power of LUV
@@ -12,7 +13,7 @@ SHAMBA LUV is a digital gesture designed to spread abundance, fun, joy and LUV a
 
 ## 🎯 Overview
 0x583F6D336E777c461FbfbeE3349D7D2dA9dc5e51
-<a href="https://luv.pythai.net">SHAMBA LUV</a> is LUV airdrop contract that automatically distributes **1 TRILLION SHAMBA LUV** to a maximum of 3000 new participants when you <a href="https://luv.pythai.net">connect</a> your social account to create a personal SHAMBA LUV wallet. Your LUV wallet is entirely under your control. You hold the private key. LUV is the answer. Built with Thirdweb SDK v5, it features:
+ is the LUV airdrop contract address that automatically distributes **1 TRILLION <a href="https://luv.pythai.net">SHAMBA LUV</a>** to a maximum of 3000 new participants when you <a href="https://luv.pythai.net">connect</a> your social account to create a personal SHAMBA LUV wallet. Your LUV wallet is entirely under your control. You hold the private key. LUV is the answer. Built with Thirdweb SDK v5, it features:
 
 - 🎁 **Automatic Airdrops** - 1 000 000 000 000 SHAMBA LUV tokens instantly on wallet connection
 - 💎 **Reflection Rewards** - 3% of every transaction distributed to holders
@@ -64,8 +65,8 @@ SHAMBA LUV is a digital gesture designed to spread abundance, fun, joy and LUV a
    VITE_TEMPLATE_CLIENT_ID=your_thirdweb_client_id
    VITE_TEMPLATE_SECRET_KEY=your_thirdweb_secret_key
    VITE_TEMPLATE_ACCOUNT_MANAGER_ADDRESS=0x_your_account_manager_address
-   VITE_TEMPLATE_TOKEN_CONTRACT_ADDRESS=0x_your_token_address
-   VITE_AIRDROP_CONTRACT_ADDRESS=0x_your_airdrop_address
+   VITE_TEMPLATE_TOKEN_CONTRACT_ADDRESS=0x1035760d0f60b35b63660ac0774ef363eaa5456e
+   VITE_AIRDROP_CONTRACT_ADDRESS=0x583F6D336E777c461FbfbeE3349D7D2dA9dc5e51
    ```
 
 ## ⚙️ Configuration
@@ -332,7 +333,7 @@ export const client = createThirdwebClient({
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is unlicensed
 
 ## 🙏 Acknowledgments
 
