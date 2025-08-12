@@ -1,4 +1,8 @@
-# 🌟 SHAMBA LUV 0x583F6D336E777c461FbfbeE3349D7D2dA9dc5e51 relfection on Polygon - Automatic Airdrop DApp
+# 🌟 SHAMBA LUV 0x583F6D336E777c461FbfbeE3349D7D2dA9dc5e51 - Automatic Airdrop DApp
+https://polygonscan.com/token/0x1035760d0f60b35b63660ac0774ef363eaa5456e
+```txt
+0x583F6D336E777c461FbfbeE3349D7D2dA9dc5e51
+```
 
 A psychedelic, love-themed token distribution platform built on Polygon with automatic airdrops, reflection rewards, and sponsored gas transactions.
 
